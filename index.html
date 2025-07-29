@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World's Top AI Researchers</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@2.51.6/dist/full.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+    <link rel="icon" href="https://parallel.ai/favicon.ico">
+    <link rel="canonical" href="https://gshubham55.github.io/ai-top-researchers/">
+    <meta name="description" content="A curated list of the world's top AI researchers, their work, and their impact.">
+    <meta property="og:title" content="World's Top AI Researchers">
+    <meta property="og:description" content="A curated list of the world's top AI researchers, their work, and their impact.">
+    <meta property="og:image" content="https://gshubham55.github.io/ai-top-researchers/banner.png">
+    <meta property="og:url" content="https://gshubham55.github.io/ai-top-researchers/">
+    <meta name="twitter:card" content="summary_large_image">
+    <style>
+        .masonry-grid {
+            column-gap: 1.5rem;
+        }
+        @media (min-width: 768px) {
+            .masonry-grid {
+                column-count: 3;
+            }
+        }
+        .card {
+            break-inside: avoid;
+            margin-bottom: 1.5rem;
+        }
+    </style>
+</head>
+<body class="bg-base-200">
+    <div class="hero min-h-screen" style="background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);">
+        <div class="hero-overlay bg-opacity-60"></div>
+        <div class="hero-content text-center text-neutral-content">
+            <div class="max-w-md">
+                <h1 class="mb-5 text-5xl font-bold">Top AI Researchers</h1>
+                <p class="mb-5">A curated list of the brilliant minds shaping the future of Artificial Intelligence.</p>
+                <button class="btn btn-primary" onclick="document.getElementById('researchers-section').scrollIntoView({ behavior: 'smooth' });">View Researchers</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="researchers-section" x-data="researchers()" x-init="fetchData()" class="container mx-auto px-4 py-8">
+        <div class="sticky top-0 z-10 bg-base-200 py-4 mb-8">
+            <div class="flex justify-between items-center">
+                <input type="text" x-model="searchTerm" placeholder="Search researchers..." class="input input-bordered w-full max-w-xs">
+                <select x-model="sortKey" class="select select-bordered">
+                    <option value="Total Citations">Sort by Citations</option>
+                    <option value="h-index">Sort by h-index</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="masonry-grid">
+            <template x-for="researcher in filteredResearchers" :key="researcher.name">
+                <div class="card bg-base-100 shadow-xl image-full transform hover:-translate-y-1 hover:shadow-2xl transition-transform duration-300 ease-in-out">
+                    <figure><img :data-src="researcher.headshot_url" class="lozad" alt="Headshot" /></figure>
+                    <div class="card-body">
+                        <h2 class="card-title" x-text="researcher.name"></h2>
+                        <div class="flex space-x-2">
+                            <div class="badge badge-primary" x-text="'Citations: ' + researcher['Total Citations']"></div>
+                            <div class="badge badge-secondary" x-text="'h-index: ' + researcher['h-index']"></div>
+                        </div>
+                        <p x-text="researcher.Affiliation"></p>
+                        <div class="collapse">
+                            <input type="checkbox" />
+                            <div class="collapse-title text-xl font-medium">
+                                Details
+                            </div>
+                            <div class="collapse-content">
+                                <p><strong>Research Interests:</strong> <span x-text="researcher['Research Interests']"></span></p>
+                                <p><strong>Top 3 Papers:</strong> <span x-text="researcher['Top 3 Papers']"></span></p>
+                                <p><strong>Compensation:</strong> <span x-text="researcher.Compensation"></span></p>
+                            </div>
+                        </div>
+                        <div class="card-actions justify-end">
+                            <button @click="share('twitter', researcher.name)" class="btn btn-sm btn-circle">T</button>
+                            <button @click="share('linkedin', researcher.name)" class="btn btn-sm btn-circle">in</button>
+                        </div>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </div>
+
+    <footer class="footer items-center p-4 bg-neutral text-neutral-content">
+        <div class="items-center grid-flow-col">
+            <a href="https://parallel.ai"><img src="https://parallel.ai/logo.svg" alt="Parallel.ai Logo" class="h-8"></a>
+            <p>Copyright © 2024 - All right reserved</p>
+        </div>
+        <div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
+            <a href="https://github.com/gshubham55/ai-top-researchers" class="btn btn-ghost">GitHub</a>
+        </div>
+    </footer>
+
+    <script src="/home/user/ai-top-researchers/script.js"></script>
+</body>
+</html>

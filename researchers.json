@@ -1,0 +1,892 @@
+[
+    {
+        "name": "Yoshua Bengio",
+        "Total Citations": 963784.0,
+        "h-index": "250",
+        "Affiliation": "Full Professor at Universit\u00e9 de Montr\u00e9al, and the Founder and Scientific Advisor of Mila \u2013 Quebec AI Institute.",
+        "Research Interests": "AI safety, deep learning, representation learning, recurrent neural networks, natural language processing, causality, computational neuroscience, generative models, graph neural networks, machine learning theory, medical machine learning, molecular modeling, probabilistic models, and reinforcement learning",
+        "Top 3 Papers": "The top 3 cited papers by Yoshua Bengio are:\n1. Generative adversarial nets (98611 citations)\n2. Deep learning (98465 citations)\n3. Deep learning (79547 citations)",
+        "Compensation": "Information on Yoshua Bengio's exact salary is not available in the search results. However, it is mentioned that he will receive \u00a359 million for a project called Safeguarded AI. In addition, in 2017, he turned down a position that would have paid him more than three times his current salary (about $180,000).",
+        "headshot_url": "https://i.pravatar.cc/150?u=YoshuaBengio"
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "Total Citations": 944092.0,
+        "h-index": "189",
+        "Affiliation": "University Professor Emeritus at the University of Toronto and Chief Scientific Advisor at the Vector Institute in Toronto",
+        "Research Interests": "reinforcement learning, neural networks, optimization",
+        "Top 3 Papers": "The top 3 most cited papers by Geoffrey Hinton are:\n1. \"Imagenet classification with deep convolutional neural networks\" with 180049 citations.\n2. \"Deep learning\" with 98208 citations.\n3. \"Learning internal representations by error-propagation\" with 60532 citations.",
+        "Compensation": "From 1996 to 2005, Geoffrey Hinton's salary at the University of Toronto increased from $125,724.00 to $205,806.96 CAD. From 2006 to 2013, his salary ranged from $223,705.02 to $270,944.94 CAD, before dropping to $142,482.30 in 2013. As of 2024, Hinton's estimated net worth is approximately $5 million USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=GeoffreyHinton"
+    },
+    {
+        "name": "Kaiming He",
+        "Total Citations": 726440.0,
+        "h-index": "72",
+        "Affiliation": "Associate Professor at MIT and Distinguished Scientist at Google DeepMind",
+        "Research Interests": "computer vision, deep learning",
+        "Top 3 Papers": "The top three most cited papers by Kaiming He are:\n\n1. Deep Residual Learning for Image Recognition (281304 citations)\n2. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (92236 citations)\n3. Mask R-CNN (45686 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=KaimingHe"
+    },
+    {
+        "name": "Ilya Efimovich Sutskever",
+        "Total Citations": 670963.0,
+        "h-index": "99",
+        "Affiliation": "Safe Superintelligence Inc.",
+        "Research Interests": "Machine Learning, Neural Networks, Artificial Intelligence, Deep Learning",
+        "Top 3 Papers": "Ilya Sutskever's top three most cited papers are:\n\n1. Imagenet classification with deep convolutional neural networks (181369 citations)\n2. Dropout: a simple way to prevent neural networks from overfitting (57847 citations)\n3. Language models are few-shot learners (51182 citations)",
+        "Compensation": "Ilya Sutskever's publicly available compensation information includes:\n\n*   2016: Over $1.9 million USD at OpenAI (includes signing bonus).\n*   2017: $748,000 USD at OpenAI (voluntary pay cut).\n*   2023: $322,201 USD at OpenAI.\n*   Safe Superintelligence Inc. (SSI): Salary range for a Member of Technical Staff is $150,000 to $500,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=IlyaEfimovichSutskever"
+    },
+    {
+        "name": "Andrew Zisserman",
+        "Total Citations": 477510.0,
+        "h-index": "206",
+        "Affiliation": "University of Oxford",
+        "Research Interests": "Artificial intelligence, Computer vision, Pattern recognition, Contextual image classification, Machine learning",
+        "Top 3 Papers": "The top 3 most cited papers by Andrew Zisserman are:\n\n1.  \"Very Deep Convolutional Networks for Large-Scale Image Recognition\" (147884 citations)\n2.  \"Multiple view geometry in computer vision\" (36826 citations)\n3.  \"The pascal visual object classes (voc) challenge\" (25916 citations)",
+        "Compensation": "An estimated salary range for a Professor at University of Oxford is $104K\u2013$165K USD per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AndrewZisserman"
+    },
+    {
+        "name": "Shaoqing Ren",
+        "Total Citations": 439359.0,
+        "h-index": "19",
+        "Affiliation": "NIO",
+        "Research Interests": "computer vision, object detection and localization, deep learning, autonomous driving",
+        "Top 3 Papers": "The top 3 most cited papers by Shaoqing Ren are:\n\n1. Deep Residual Learning for Image Recognition (281454 citations)\n2. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (93397 citations)\n3. Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (27851 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=ShaoqingRen"
+    },
+    {
+        "name": "Yann LeCun",
+        "Total Citations": 415480.0,
+        "h-index": "158",
+        "Affiliation": "VP & Chief AI Scientist at Meta and a Silver Professor at New York University",
+        "Research Interests": "AI, machine learning, computer vision, robotics, and computational neuroscience",
+        "Top 3 Papers": "Yann LeCun's top three most cited papers are:\n\n1. Deep learning (Y LeCun, Y Bengio, G Hinton, Nature, 2015): 97796 citations\n2. Gradient-based learning applied to document recognition (Y LeCun, L Bottou, Y Bengio, P Haffner, Proceedings of the IEEE 86 (11), 2278-2324 , 2002): 76795 citations\n3. Backpropagation applied to handwritten zip code recognition (Y LeCun, B Boser, JS Denker, D Henderson, RE Howard, W Hubbard, Neural computation 1 (4), 541-551 , 1989): 18986 citations",
+        "Compensation": "Publicly available information indicates that AI researchers like Yann LeCun may earn well over a million dollars, and Meta has been known to offer top AI engineers nine-figure salaries.",
+        "headshot_url": "https://i.pravatar.cc/150?u=YannLeCun"
+    },
+    {
+        "name": "Ian Joseph Goodfellow",
+        "Total Citations": 370271.0,
+        "h-index": "100",
+        "Affiliation": "Google DeepMind",
+        "Research Interests": "Deep Learning, Generative Models, Machine Learning Security and Privacy, Adversarial Systems, and Neural Networks",
+        "Top 3 Papers": "The top 3 most cited papers by Ian Goodfellow are:\n\n1. Generative Adversarial Nets (39002 citations)\n2. Deep Learning (34799 citations)\n3. TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (10002 Citations)",
+        "Compensation": "In 2016, OpenAI paid Ian Goodfellow more than $800,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=IanJosephGoodfellow"
+    },
+    {
+        "name": "Jeffrey Adgate Dean",
+        "Total Citations": 358697.0,
+        "h-index": "110",
+        "Affiliation": "Google DeepMind and Google Research",
+        "Research Interests": "Machine learning and AI, large-scale distributed systems, computer systems performance, information retrieval, compiler optimizations",
+        "Top 3 Papers": "The top 3 most cited papers by Jeffrey Dean are:\n\n1. \"{TensorFlow}: a system for {Large-Scale} machine learning\" with 60597 citations\n2. \"Efficient estimation of word representations in vector space\" with 48055 citations\n3. \"Distributed representations of words and phrases and their compositionality\" with 47966 citations",
+        "Compensation": "Estimated salary is around $3,000,000 USD per year. Google may offer between $5,000,000 and $10,000,000 USD to retain him.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JeffreyAdgateDean"
+    },
+    {
+        "name": "Vladimir Naumovich Vapnik",
+        "Total Citations": 333030.0,
+        "h-index": "108",
+        "Affiliation": "Professor of Computer Science at Columbia University and a professor of computer science and statistics at Royal Holloway, University of London. He is also working at Meta AI.",
+        "Research Interests": "machine learning, statistics, computer science",
+        "Top 3 Papers": "The top 3 most cited papers by Vladimir Naumovich Vapnik are:\n\n1. The Nature of Statistical Learning Theory, with 111273 citations.\n2. Support-vector networks, with 76090 citations.\n3. Backpropagation applied to handwritten zip code recognition, with 19069 citations.",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=VladimirNaumovichVapnik"
+    },
+    {
+        "name": "Michael I. Jordan",
+        "Total Citations": 332436.0,
+        "h-index": "214",
+        "Affiliation": "Pehong Chen Distinguished Professor at the University of California, Berkeley, and researcher at Inria Paris",
+        "Research Interests": "Computation, statistics, economics, molecular biology, natural language processing, signal processing, mechanism design, artificial intelligence, computational biology, machine learning",
+        "Top 3 Papers": "The top 3 most cited papers by Michael I. Jordan are:\n1. Latent Dirichlet Allocation (58895 citations)\n2. On spectral clustering: Analysis and an algorithm (13218 citations)\n3. Machine learning: Trends, perspectives, and prospects (11974 citations)",
+        "Compensation": "In 2019, Michael I. Jordan's reported pay as a Professor at the University of California, Berkeley was $326,527 USD, with total pay plus benefits amounting to $433,831 USD. In 2017, his annual salary was $430,196 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=MichaelI.Jordan"
+    },
+    {
+        "name": "Diederik Pieter Kingma",
+        "Total Citations": 315513.0,
+        "h-index": "51",
+        "Affiliation": "Anthropic",
+        "Research Interests": "Machine Learning, Deep Learning, Neural Networks, Generative Models, Artificial Intelligence",
+        "Top 3 Papers": "The top three most cited papers by Diederik P. Kingma are:\n\n1. Adam: A method for stochastic optimization (222340 citations)\n2. Auto-Encoding Variational Bayes (46963 citations)\n3. Score-based generative modeling through stochastic differential equations (7676 citations)",
+        "Compensation": "In 2017, Diederik Kingma's compensation at OpenAI was $545,833 USD. In 2016, his compensation was $173,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=DiederikPieterKingma"
+    },
+    {
+        "name": "Fei-Fei Li",
+        "Total Citations": 310405.0,
+        "h-index": "165",
+        "Affiliation": "Sequoia Capital Professor in the Computer Science Department at Stanford University, Founding Co-Director of Stanford's Human-Centered AI Institute, and Co-founder/CEO of World Labs",
+        "Research Interests": "AI, machine learning, deep learning, computer vision, robotic learning, ambient intelligence for healthcare delivery, cognitive and computational neuroscience",
+        "Top 3 Papers": "The top three most cited papers by Fei-Fei Li are:\n1. \"Imagenet: A large-scale hierarchical image database\" with 87030 citations\n2. \"Imagenet large scale visual recognition challenge\" with 51492 citations\n3. \"Perceptual losses for real-time style transfer and super-resolution\" with 13366 citations",
+        "Compensation": "In 2021, Fei-Fei Li made $292,027 USD in total compensation as an Independent Director at Twitter Inc. This included $67,083 USD in total cash and $224,944 USD in stock awards.",
+        "headshot_url": "https://i.pravatar.cc/150?u=Fei-FeiLi"
+    },
+    {
+        "name": "Alex Krizhevsky",
+        "Total Citations": 308252.0,
+        "h-index": "38",
+        "Affiliation": "Two Bear Capital",
+        "Research Interests": "artificial neural networks, deep learning, machine learning, computer vision, robotic grasping",
+        "Top 3 Papers": "The top 3 most cited papers by Alex Krizhevsky are:\n\n1. \"Imagenet classification with deep convolutional neural networks\" (180307 citations)\n2. \"Dropout: a simple way to prevent neural networks from overfitting\" (57847 citations)\n3. \"Learning multiple layers of features from tiny images\" (37343 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=AlexKrizhevsky"
+    },
+    {
+        "name": "Aaron Courville",
+        "Total Citations": 305095.0,
+        "h-index": "110",
+        "Affiliation": "Universit\u00e9 de Montr\u00e9al",
+        "Research Interests": "deep learning models and methods, reinforcement learning, multi-agent reinforcement learning, deep generative models, and reasoning",
+        "Top 3 Papers": "The top three most cited papers by Aaron Courville are:\n\n1.  \"Generative adversarial nets\" with 99406 citations\n2.  \"Deep learning\" with 82385 citations\n3.  \"Representation learning: A review and new perspectives\" with 18189 citations",
+        "Compensation": "The estimated total pay range for a Professor at Universit\r\n\u00e9 de Montr\r\nal is $140,000 - $198,000 CAD per year. Professor professionals working at Universit\r\n\u00e9 de Montr\r\nal will earn between $11,611 and $21,348 CAD monthly.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AaronCourville"
+    },
+    {
+        "name": "Christian Szegedy",
+        "Total Citations": 301089.0,
+        "h-index": "39",
+        "Affiliation": "Morph Labs",
+        "Research Interests": "deep learning, formal reasoning, machine learning, AI, computer vision",
+        "Top 3 Papers": "The top 3 most cited papers by Christian Szegedy are:\n\n1. Going deeper with convolutions (69343 citations)\n2. Batch normalization: Accelerating deep network training by reducing internal covariate shift (62431 citations)\n3. Ssd: Single shot multibox detector (48958 citations)",
+        "Compensation": "There is no publicly available information about Christian Szegedy's compensation in the provided search results.",
+        "headshot_url": "https://i.pravatar.cc/150?u=ChristianSzegedy"
+    },
+    {
+        "name": "Andrew Ng",
+        "Total Citations": 290805.0,
+        "h-index": "153",
+        "Affiliation": "DeepLearning.AI; LandingAI; AI Fund; Coursera; Stanford University",
+        "Research Interests": "machine learning, deep learning, computer vision, natural language processing, robotics",
+        "Top 3 Papers": "Andrew Ng's top three most cited papers are:\n\n1. Latent Dirichlet Allocation (58675 citations)\n2. ROS: an open-source Robot Operating System (13886 citations)\n3. On spectral clustering: Analysis and an algorithm (13157 citations)",
+        "Compensation": "As Chairman of the Board at Coursera Inc, Andrew Ng's total compensation in 2023 was $252,972 USD. This included $50,000 USD in total cash and $202,972 USD in equity.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AndrewNg"
+    },
+    {
+        "name": "Christopher David Manning",
+        "Total Citations": 290071.0,
+        "h-index": "171",
+        "Affiliation": "Stanford University",
+        "Research Interests": "Deep Learning for NLP, Question Answering, Large Language Models, Knowledge and Reasoning, and Universal Dependencies",
+        "Top 3 Papers": "The top 3 most cited papers by Christopher David Manning are:\n\n1. GloVe: Global vectors for word representation (46573 citations)\n2. Introduction to information retrieval (29422 citations)\n3. Foundations of Statistical Natural Language Processing (18115 citations)",
+        "Compensation": "$170,000 - $291,000 USD per year is the salary range for a Professor at Stanford University.",
+        "headshot_url": "https://i.pravatar.cc/150?u=ChristopherDavidManning"
+    },
+    {
+        "name": "J\u00fcrgen Schmidhuber",
+        "Total Citations": 287907.0,
+        "h-index": "128",
+        "Affiliation": "King Abdullah University of Science and Technology (KAUST)",
+        "Research Interests": "artificial intelligence, machine learning, deep learning, artificial neural networks, and robotics",
+        "Top 3 Papers": "The top 3 most cited papers by J\u00fcrgen Schmidhuber are:\n\n1. Long Short-Term Memory, with 130842 citations\n2. Deep learning in neural networks: An overview, with 25353 citations\n3. Learning to forget: Continual prediction with LSTM, with 9612 citations",
+        "Compensation": "I am unable to find information regarding J\u00fcrgen Schmidhuber's compensation at KAUST.",
+        "headshot_url": "https://i.pravatar.cc/150?u=J\u00fcrgenSchmidhuber"
+    },
+    {
+        "name": "Anil K. Jain",
+        "Total Citations": 278742.0,
+        "h-index": "220",
+        "Affiliation": "Michigan State University",
+        "Research Interests": "biometrics, pattern recognition, computer vision, machine learning, and image processing",
+        "Top 3 Papers": "The top 3 most cited papers by Anil K. Jain are:\n\n1. \"Data clustering: a review\" with 21194 citations\n2. \"Algorithms for Clustering Data\" with 17756 citations\n3. \"Data clustering: 50 years beyond K-means\" with 12637 citations",
+        "Compensation": "Anil K. Jain's salary as Univ Distinguished Prof-Tenure System at Michigan State University was $358,597 USD in 2023, $333,725 USD in 2022, $317,039 USD in 2021 and $316,317 USD in 2019.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AnilK.Jain"
+    },
+    {
+        "name": "Karen Simonyan",
+        "Total Citations": 271004.0,
+        "h-index": "59",
+        "Affiliation": "Microsoft AI",
+        "Research Interests": "Artificial Intelligence, Deep Learning, Machine Learning, Convolutional Neural Networks, Pattern Recognition",
+        "Top 3 Papers": "The top 3 most cited papers by Karen Simonyan are:\n\n1. Very Deep Convolutional Networks for Large-Scale Image Recognition (147616 citations)\n2. Mastering the game of go without human knowledge (12485 citations)\n3. Spatial Transformer Networks (10235 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=KarenSimonyan"
+    },
+    {
+        "name": "Jiawei Han",
+        "Total Citations": 270958.0,
+        "h-index": "212",
+        "Affiliation": "Michael Aiken Chair Professor in the Siebel School of Computing and Data Science at the University of Illinois at Urbana-Champaign",
+        "Research Interests": "Data Mining, Text Mining, Artificial Intelligence, Database Systems, Information Networks",
+        "Top 3 Papers": "The top three most cited papers by Jiawei Han are:\n1. Data mining: concepts and techniques (65088 citations)\n2. Mining frequent patterns without candidate generation (11177 citations)\n3. Data mining: an overview from a database perspective (4106 citations)",
+        "Compensation": "In 2024, Jiawei Han, a Professor at the Siebel School of Computing and Data Science at the University of Illinois-Urbana-Champaign, earned $361,238 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JiaweiHan"
+    },
+    {
+        "name": "Bernhard Sch\u00f6lkopf",
+        "Total Citations": 260047.0,
+        "h-index": "191",
+        "Affiliation": "Director at the Max Planck Institute for Intelligent Systems, Scientific Director of the ELLIS Institute T\u00fcbingen, and Professor at ETH Z\u00fcrich.",
+        "Research Interests": "machine learning, kernel methods, causality",
+        "Top 3 Papers": "The top 3 most cited papers by Bernhard Sch\u00f6lkopf are:\n\n1. Learning with kernels: support vector machines, regularization, optimization, and beyond (25,683 citations)\n2. A tutorial on support vector regression (16,604 citations)\n3. Nonlinear component analysis as a kernel eigenvalue problem (11,320 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=BernhardSch\u00f6lkopf"
+    },
+    {
+        "name": "Jitendra Malik",
+        "Total Citations": 252926.0,
+        "h-index": "179",
+        "Affiliation": "Arthur J. Chick Professor of Electrical Engineering and Computer Science at UC Berkeley",
+        "Research Interests": "computer vision, computational modeling of human vision, machine learning, robotics, artificial intelligence",
+        "Top 3 Papers": "The top three most cited papers by Jitendra Malik are:\n\n1. Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation (23232 citations)\n2. Normalized cuts and image segmentation (20170 citations)\n3. Scale-space and edge detection using anisotropic diffusion (16613 citations)",
+        "Compensation": "Jitendra Malik's salary at UC Berkeley was $163,528 USD in 2015. In 2020, his total compensation was $135,689 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JitendraMalik"
+    },
+    {
+        "name": "Noam Shazeer",
+        "Total Citations": 251125.0,
+        "h-index": "63",
+        "Affiliation": "Google",
+        "Research Interests": "artificial intelligence, machine learning, efficient neural architectures, multi-task learning, general artificial intelligence",
+        "Top 3 Papers": "The top 3 most cited papers by Noam Shazeer are:\n\n1. Attention is All You Need (186477 citations)\n2. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (24292 citations)\n3. Palm: Scaling language modeling with pathways (6630 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=NoamShazeer"
+    },
+    {
+        "name": "Ruslan Salakhutdinov",
+        "Total Citations": 237916.0,
+        "h-index": "128",
+        "Affiliation": "VP of Research @ GenAI at Meta and UPMC Professor of Computer Science at Carnegie Mellon University",
+        "Research Interests": "Deep Learning, Probabilistic Graphical Models, Large-scale Optimization, Machine Learning",
+        "Top 3 Papers": "The top 3 most cited papers by Ruslan Salakhutdinov are:\n\n1. \"Dropout: a simple way to prevent neural networks from overfitting\" with 32,905 citations.\n2. \"Reducing the Dimensionality of Data with Neural Networks\" with 18,131 citations.\n3. \"Improving neural networks by preventing co-adaptation of feature detectors\" with 9,255 citations.",
+        "Compensation": "From 2012 to 2015, Ruslan Salakhutdinov was employed at the University of Toronto. His salary information is as follows:\n* 2012: $112,222.50 CAD + $457.74 CAD benefits as Professor of Computer and Mathematical Sciences\n* 2013: $119,935.50 CAD + $3,066.24 CAD benefits as Professor Statistical Sciences\n* 2014: $125,575.02 CAD + $2,906.70 CAD benefits as Professor Statistical Sciences\n* 2015: $129,710.04 CAD + $3,445.07 CAD benefits as Professor Statistical Sciences",
+        "headshot_url": "https://i.pravatar.cc/150?u=RuslanSalakhutdinov"
+    },
+    {
+        "name": "Sir Demis Hassabis",
+        "Total Citations": 220408.0,
+        "h-index": "99",
+        "Affiliation": "Google DeepMind and Isomorphic Labs",
+        "Research Interests": "neuroscience, artificial intelligence, machine learning, cognitive neuroscience",
+        "Top 3 Papers": "The top three most cited papers by Demis Hassabis are:\n\n1. \"Highly accurate protein structure prediction with AlphaFold\" (38085 citations)\n2. \"Human-level control through deep reinforcement learning\" (36454 citations)\n3. \"Mastering the game of Go with deep neural networks and tree search\" (22391 citations)",
+        "Compensation": "Based on insider reports and market speculation, Demis Hassabis' annual compensation package ranges between $5 million and $15 million.",
+        "headshot_url": "https://i.pravatar.cc/150?u=SirDemisHassabis"
+    },
+    {
+        "name": "Pieter Abbeel",
+        "Total Citations": 209110.0,
+        "h-index": "179",
+        "Affiliation": "Professor and Director of the Berkeley Robot Learning Lab and Co-Director of the Berkeley Artificial Intelligence (BAIR) Lab at the University of California, Berkeley",
+        "Research Interests": "Generative AI, Reinforcement Learning, Humanoid Robotics, apprenticeship learning, meta-learning, robotics, machine learning",
+        "Top 3 Papers": "The top three most cited papers by Pieter Abbeel are:\n\n1. \"Denoising diffusion probabilistic models\" (24283 citations)\n2. \"Model-agnostic meta-learning for fast adaptation of deep networks\" (16027 citations)\n3. \"Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor\" (11789 citations)",
+        "Compensation": "In 2022, Pieter Abbeel's pay as a Professor at the University of California, Berkeley was $188,167 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=PieterAbbeel"
+    },
+    {
+        "name": "Vincent Vanhoucke",
+        "Total Citations": 204762.0,
+        "h-index": "51",
+        "Affiliation": "Waymo",
+        "Research Interests": "machine intelligence, machine perception, robotics, speech processing",
+        "Top 3 Papers": "The top 3 most cited papers by Vincent Vanhoucke are:\n\n1. Going deeper with convolutions - 68794 citations\n2. Rethinking the inception architecture for computer vision - 40166 citations\n3. Inception-v4, inception-resnet and the impact of residual connections on learning - 19798 citations",
+        "Compensation": "Publicly available compensation information for Vincent Vanhoucke is not available.",
+        "headshot_url": "https://i.pravatar.cc/150?u=VincentVanhoucke"
+    },
+    {
+        "name": "Alexander Johannes Smola",
+        "Total Citations": 203341.0,
+        "h-index": "144",
+        "Affiliation": "VP / Distinguished Scientist at Amazon Web Services",
+        "Research Interests": "Deep Learning, Scalability of algorithms, Kernel methods, Statistical modeling",
+        "Top 3 Papers": "The top 3 most cited papers by Alexander Johannes Smola are:\n\n1. Learning with kernels: Support vector machines, regularization, optimization, and beyond (25580 citations)\n2. A tutorial on support vector regression (16580 citations)\n3. Nonlinear component analysis as a kernel eigenvalue problem (11320 citations)",
+        "Compensation": "$22,387 currency unknown",
+        "headshot_url": "https://i.pravatar.cc/150?u=AlexanderJohannesSmola"
+    },
+    {
+        "name": "Sergey Levine",
+        "Total Citations": 191306.0,
+        "h-index": "185",
+        "Affiliation": "UC Berkeley",
+        "Research Interests": "Machine learning for decision making and control, deep learning, reinforcement learning algorithms",
+        "Top 3 Papers": "The top 3 most cited papers by Sergey Levine are:\n\n1. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (15968 citations)\n2. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor (11735 citations)\n3. Trust region policy optimization (9988 citations)",
+        "Compensation": "In 2022, as an Associate Professor at the University of California, Berkeley, Sergey Levine was paid $149,317 USD. In 2017, his annual salary was $257,045 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=SergeyLevine"
+    },
+    {
+        "name": "L\u00e9on Bottou",
+        "Total Citations": 185565.0,
+        "h-index": "89",
+        "Affiliation": "Meta AI and Visiting Research Professor at NYU",
+        "Research Interests": "machine learning, artificial intelligence, statistical learning systems, computer vision, theory",
+        "Top 3 Papers": "The top 3 most cited papers by L\u00e9on Bottou are:\n\n1. Gradient-based learning applied to document recognition (77351 citations)\n2. Wasserstein generative adversarial networks (19842 citations)\n3. Natural language processing (almost) from scratch (10731 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=L\u00e9onBottou"
+    },
+    {
+        "name": "Tom\u00e1\u0161 Mikolov",
+        "Total Citations": 183952.0,
+        "h-index": "55",
+        "Affiliation": "Czech Institute of Informatics, Robotics and Cybernetics (CIIRC) at the Czech Technical University in Prague",
+        "Research Interests": "Artificial Intelligence, Machine Learning, Language Modeling, Natural Language Processing",
+        "Top 3 Papers": "The top 3 most cited papers by Tomas Mikolov are:\n\n1. Efficient estimation of word representations in vector space (48549 citations)\n2. Distributed representations of words and phrases and their compositionality (48001 citations)\n3. Enriching word vectors with subword information (14168 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=Tom\u00e1\u0161Mikolov"
+    },
+    {
+        "name": "Terrence Joseph Sejnowski",
+        "Total Citations": 183295.0,
+        "h-index": "187",
+        "Affiliation": "Francis Crick Professor at the Salk Institute for Biological Studies and Distinguished Professor at the University of California, San Diego.",
+        "Research Interests": "neural networks, computational neuroscience, understanding the computational resources of brains, building linking principles from brain to behavior using computational models",
+        "Top 3 Papers": "The top 3 most cited papers by Terrence J. Sejnowski are:\n\n1. An information-maximization approach to blind separation and blind deconvolution (12810 citations)\n2. A learning algorithm for Boltzmann machines (6241 citations)\n3. Thalamocortical oscillations in the sleeping and aroused brain (4417 citations)",
+        "Compensation": "In 2019, Terrence J. Sejnowski was paid $278,850 USD as a Professor at the University of California, San Diego.",
+        "headshot_url": "https://i.pravatar.cc/150?u=TerrenceJosephSejnowski"
+    },
+    {
+        "name": "Fabian Pedregosa",
+        "Total Citations": 169533.0,
+        "h-index": "38",
+        "Affiliation": "Google Research and Google DeepMind",
+        "Research Interests": "optimization, machine learning, scientific software",
+        "Top 3 Papers": "The top three most cited papers by Fabian Pedregosa are:\n\n1. \"Scikit-learn: Machine learning in Python\" with 113756 citations\n2. \"SciPy 1.0: fundamental algorithms for scientific computing in Python\" with 39105 citations\n3. \"API design for machine learning software: experiences from the scikit-learn project\" with 4059 citations",
+        "Compensation": "Compensation information for Fabian Pedregosa is not available.",
+        "headshot_url": "https://i.pravatar.cc/150?u=FabianPedregosa"
+    },
+    {
+        "name": "Richard S. Sutton",
+        "Total Citations": 166146.0,
+        "h-index": "Richard S. Sutton's Google Scholar h-index is 97 since 2020 and 67 overall.",
+        "Affiliation": "Professor of Computing Science at the University of Alberta, Research Scientist at Keen Technologies, and Fellow & Chief Scientific Advisor at the Alberta Machine Intelligence Institute (Amii).",
+        "Research Interests": "Reinforcement Learning, Artificial Intelligence, Knowledge Representation, Temporal-difference learning",
+        "Top 3 Papers": "The top 3 most cited papers by Richard S. Sutton are:\n\n1.  \"Reinforcement learning: An introduction\" with 84654 citations\n2.  \"Policy gradient methods for reinforcement learning with function approximation\" with 9883 citations\n3.  \"Learning to predict by the methods of temporal differences\" with 8625 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=RichardS.Sutton"
+    },
+    {
+        "name": "Alexei A. Efros",
+        "Total Citations": 161240.0,
+        "h-index": "113",
+        "Affiliation": "UC Berkeley",
+        "Research Interests": "computer vision, computer graphics, machine learning, computational photography, artificial intelligence",
+        "Top 3 Papers": "The top three most cited papers by Alexei A. Efros are:\n\n1.  \"Unpaired image-to-image translation using cycle-consistent adversarial networks\" with 28130 citations\n2.  \"Image-to-image translation with conditional adversarial networks\" with 27623 citations\n3.  \"The unreasonable effectiveness of deep features as a perceptual metric\" with 14971 citations",
+        "Compensation": "In 2022, Alexei A. Efros's total compensation from the University of California was $302,294 USD, including a base salary of $181,733, other pay of $69,906, and benefits of $50,655.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AlexeiA.Efros"
+    },
+    {
+        "name": "Judea Pearl",
+        "Total Citations": 159182.0,
+        "h-index": "126",
+        "Affiliation": "Chancellor's Professor of Computer Science and Statistics at UCLA",
+        "Research Interests": "automated reasoning, causal inference, human cognition, artificial intelligence and knowledge representation, probabilistic and causal reasoning, philosophy of science",
+        "Top 3 Papers": "The top 3 most cited papers by Judea Pearl are:\n\n1. Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference (24371 citations)\n2. Causality: models, reasoning, and inference (14296 citations)\n3. Causality: Models, Reasoning and Inference (4957 Citations)",
+        "Compensation": "Compensation information for Judea Pearl is not available in the provided sources.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JudeaPearl"
+    },
+    {
+        "name": "David M. Blei",
+        "Total Citations": 152393.0,
+        "h-index": "114",
+        "Affiliation": "William B. Ransford Professor of Statistics and Computer Science at Columbia University",
+        "Research Interests": "machine learning, Bayesian statistics, topic models, inference, latent Dirichlet allocation",
+        "Top 3 Papers": "David M. Blei's top 3 most cited papers are:\n1. Latent Dirichlet Allocation (58514 citations)\n2. Probabilistic Topic Models (8613 citations)\n3. Variational Inference: A Review for Statisticians (6784 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=DavidM.Blei"
+    },
+    {
+        "name": "Yangqing Jia",
+        "Total Citations": 147297.0,
+        "h-index": "51",
+        "Affiliation": "NVIDIA and the University of California, Berkeley",
+        "Research Interests": "object recognition, deep learning, parallel computation, visual cognition, artificial intelligence, machine learning, convolutional neural networks",
+        "Top 3 Papers": "The top three most cited papers by Yangqing Jia are:\n\n1. Going deeper with convolutions (68030 citations)\n2. TensorFlow: Large-scale machine learning on heterogeneous distributed systems (21423 citations)\n3. Caffe: Convolutional architecture for fast feature embedding (18782 citations)",
+        "Compensation": "The base salary range for a Senior GPU Kernel Performance Lead at NVIDIA is $224,000 - $425,500 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=YangqingJia"
+    },
+    {
+        "name": "Stuart Jonathan Russell",
+        "Total Citations": 137421.0,
+        "h-index": "97",
+        "Affiliation": "University of California, Berkeley",
+        "Research Interests": "machine learning, probabilistic reasoning, knowledge representation, planning, real-time decision making, multitarget tracking, computer vision, computational physiology, and philosophical foundations",
+        "Top 3 Papers": "The top 3 most cited papers by Stuart Jonathan Russell are:\n1. Artificial intelligence: a modern approach (69545 citations)\n2. Algorithms for inverse reinforcement learning (4614 citations)\n3. Distance metric learning with application to clustering with side-information (4142 citations)",
+        "Compensation": "In 2017, Stuart Jonathan Russell's annual salary from the University of California, Berkeley was $233,168 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=StuartJonathanRussell"
+    },
+    {
+        "name": "Sergey Ioffe",
+        "Total Citations": 131078.0,
+        "h-index": "37",
+        "Affiliation": "Google, Inc.",
+        "Research Interests": "machine learning, computer vision, deep learning, optimization algorithms",
+        "Top 3 Papers": "The top three most cited papers by Sergey Ioffe are:\n\n1. \"Batch normalization: Accelerating deep network training by reducing internal covariate shift\" with 62242 citations.\n2. \"Rethinking the inception architecture for computer vision\" with 40110 citations.\n3. \"Inception-v4, inception-resnet and the impact of residual connections on learning\" with 19519 citations.",
+        "Compensation": "Compensation data for AI Researchers at Google varies. Levels.fyi reports a median yearly compensation of $305,000 USD. Glassdoor estimates a total pay range of $162,000 - $270,000 USD per year. AI Paygrades shows total compensation for Research Scientists (levels L5 and L6) ranging from $692,500 to $786,000 USD. Rora indicates top of band numbers for Research Scientists: L4 - $190,000 USD base salary, $600,000 USD equity; L5 - $230,000 USD base salary, $1,200,000 USD equity; L6 - $250,000 USD base salary, $1,800,000 USD equity.",
+        "headshot_url": "https://i.pravatar.cc/150?u=SergeyIoffe"
+    },
+    {
+        "name": "Joshua Brett Tenenbaum",
+        "Total Citations": 130676.0,
+        "h-index": "159",
+        "Affiliation": "Massachusetts Institute of Technology (MIT)",
+        "Research Interests": "Learning concepts, judging similarity, inferring causal connections, forming perceptual representations, learning word meanings and syntactic principles in natural language",
+        "Top 3 Papers": "The top 3 most cited papers by Joshua Brett Tenenbaum are:\n\n1. A global geometric framework for nonlinear dimensionality reduction (17724 citations)\n2. Human-level concept learning through probabilistic program induction (3990 citations)\n3. Building machines that learn and think like people (3846 citations)",
+        "Compensation": "The estimated total pay range for a Professor at MIT is $110K\u2013$315K USD per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JoshuaBrettTenenbaum"
+    },
+    {
+        "name": "Mart\u00edn Abadi",
+        "Total Citations": 128947.0,
+        "h-index": "102",
+        "Affiliation": "Google",
+        "Research Interests": "Algorithms and Theory, Distributed Systems and Parallel Computing, Machine Intelligence, Security, Privacy and Abuse Prevention",
+        "Top 3 Papers": "The top 3 most cited papers by Mart\u00edn Abadi are:\n\n1. TensorFlow: a system for large-scale machine learning (29179 citations)\n2. TensorFlow: Large-scale machine learning on heterogeneous systems (21368 citations)\n3. TensorFlow: large-scale machine learning on heterogeneous distributed systems (14105 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=Mart\u00ednAbadi"
+    },
+    {
+        "name": "Wolfram Burgard",
+        "Total Citations": 127953.0,
+        "h-index": "139",
+        "Affiliation": "University of Technology Nuremberg",
+        "Research Interests": "Artificial Intelligence, Mobile Robots, State Estimation, Control",
+        "Top 3 Papers": "The top 3 cited papers of Wolfram Burgard are:\n\n1. Probabilistic robotics (14993 citations)\n2. The dynamic window approach to collision avoidance (4889 citations)\n3. A benchmark for the evaluation of RGB-D SLAM systems (4753 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=WolframBurgard"
+    },
+    {
+        "name": "Daphne Koller",
+        "Total Citations": 118913.0,
+        "h-index": "151",
+        "Affiliation": "CEO and founder of insitro and an adjunct professor in Computer Science at Stanford University",
+        "Research Interests": "machine learning, computational biology, computer vision, artificial intelligence, probabilistic methods",
+        "Top 3 Papers": "Daphne Koller's top 3 most cited papers are:\n\n1. Probabilistic graphical models: principles and techniques (12096 citations)\n2. The genotype-tissue expression (GTEx) project (8930 citations)\n3. The Genotype-Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans (4963 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=DaphneKoller"
+    },
+    {
+        "name": "Zoubin Ghahramani",
+        "Total Citations": 110000.0,
+        "h-index": "132",
+        "Affiliation": "VP of Research at Google DeepMind and Professor of Information Engineering at the University of Cambridge",
+        "Research Interests": "Machine learning, Bayesian statistics, artificial intelligence, probabilistic modeling, nonparametric Bayesian modelling",
+        "Top 3 Papers": "The top 3 most cited papers by Zoubin Ghahramani are:\n\n1. \"An introduction to variational methods for graphical models\" with 3355 citations\n2. \"Semi-supervised learning using Gaussian fields and harmonic functions\" with 4493 citations\n3. \"Dropout as a Bayesian approximation: representing model uncertainty in deep learning\" with 4406 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=ZoubinGhahramani"
+    },
+    {
+        "name": "Michael J. Black",
+        "Total Citations": 103829.0,
+        "h-index": "147",
+        "Affiliation": "Max Planck Institute for Intelligent Systems, University of T\u00fcbingen, and Amazon",
+        "Research Interests": "Computer Vision, Computer Graphics, Machine Learning, Virtual Humans, Digital Humans",
+        "Top 3 Papers": "The top 3 most cited papers by Michael J. Black are:\n\n1. SMPL: A skinned multi-person linear model (5426 citations)\n2. A database and evaluation methodology for optical flow (3455 citations)\n3. A naturalistic open source movie for optical flow evaluation (2525 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=MichaelJ.Black"
+    },
+    {
+        "name": "Samy Bengio",
+        "Total Citations": 100273.0,
+        "h-index": "97",
+        "Affiliation": "Apple; \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "Research Interests": "Deep architectures, representation learning, sequence processing, speech recognition, image understanding",
+        "Top 3 Papers": "Samy Bengio's top three most cited papers are:\n\n1. Understanding deep learning requires rethinking generalization (8483 citations)\n2. Show and tell: A neural image caption generator (8413 citations)\n3. Adversarial examples in the physical world (7551 citations)",
+        "Compensation": "Samy Bengio's salary as Senior Director at Apple is $840,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=SamyBengio"
+    },
+    {
+        "name": "Hugo Larochelle",
+        "Total Citations": 99989.0,
+        "h-index": "75",
+        "Affiliation": "Mila - Quebec Artificial Intelligence Institute",
+        "Research Interests": "deep learning, generative modeling, reinforcement learning, meta-learning, natural language processing, and computer vision",
+        "Top 3 Papers": "The top 3 most cited papers by Hugo Larochelle are:\n\n1. Practical bayesian optimization of machine learning algorithms (11829 citations)\n2. Domain-adversarial training of neural networks (11646 citations)\n3. Extracting and composing robust features with denoising autoencoders (10153 citations)",
+        "Compensation": "A Research Scientist at DeepMind in Montreal can make $366,100 CAD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=HugoLarochelle"
+    },
+    {
+        "name": "Dan Jurafsky",
+        "Total Citations": 96062.0,
+        "h-index": "128",
+        "Affiliation": "Stanford University",
+        "Research Interests": "Natural Language Processing, human-human conversation, social and cognitive sciences, linguistics of food, linguistics of Chinese",
+        "Top 3 Papers": "The top 3 most cited papers by Dan Jurafsky are:\n\n1. Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition (19915 citations)\n2. Speech and language processing, 2nd edition (19305 citations)\n3. On the opportunities and risks of foundation models (6420 citations)",
+        "Compensation": "Publicly available compensation information for Dan Jurafsky is not available.",
+        "headshot_url": "https://i.pravatar.cc/150?u=DanJurafsky"
+    },
+    {
+        "name": "David Everett Rumelhart",
+        "Total Citations": 95516.0,
+        "h-index": "39",
+        "Affiliation": NaN,
+        "Research Interests": "Machine learning, constraint satisfaction, knowledge representations, mathematical psychology, symbolic artificial intelligence, parallel distributed processing, connectionism, artificial neural network modeling, deep learning",
+        "Top 3 Papers": "The top 3 most cited papers by David E. Rumelhart are:\n\n1.  \"Learning representations by back-propagating errors\" with 29.5K citations\n2.  \"Learning internal representations by error propagation\" with 18.9K citations\n3.  \"Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations\" with 16.7K citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=DavidEverettRumelhart"
+    },
+    {
+        "name": "Peter Norvig",
+        "Total Citations": 94156.0,
+        "h-index": "50",
+        "Affiliation": "Stanford Institute for Human-Centered Artificial Intelligence (HAI) and Google Inc.",
+        "Research Interests": "Data Mining and Modeling, Education Innovation, Information Retrieval and the Web, Machine Intelligence, Natural Language Processing",
+        "Top 3 Papers": "The top 3 most cited papers by Peter Norvig are:\n1. Artificial intelligence: a modern approach (2nd edition) - 72380 citations\n2. Intelig\u00eancia artificial - 3276 citations\n3. Quantitative analysis of culture using millions of digitized books - 3109 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=PeterNorvig"
+    },
+    {
+        "name": "Nassir Navab",
+        "Total Citations": 93879.0,
+        "h-index": "129",
+        "Affiliation": "Technical University of Munich",
+        "Research Interests": "computer-aided medical procedures, augmented reality, medical robotics, machine learning, medical image analysis",
+        "Top 3 Papers": "The top three cited papers by Nassir Navab are:\n1. V-net: Fully convolutional neural networks for volumetric medical image segmentation (12974 citations)\n2. Diagnostic assessment of deep learning algorithms for detection of lymph node metastases in women with breast cancer (3650 citations)\n3. Deeper depth prediction with fully convolutional residual networks (2503 citations)",
+        "Compensation": "The average salary for a Professor at TU Munich is approximately \u20ac125,000 per year. Full professors in Germany can earn more than 8000 euros per month, plus bonuses. For W3 professorships, the monthly salary ranges from \u20ac8000 to \u20ac8600 (gross monthly salary).",
+        "headshot_url": "https://i.pravatar.cc/150?u=NassirNavab"
+    },
+    {
+        "name": "John Joseph Hopfield",
+        "Total Citations": 93836.0,
+        "h-index": "John Joseph Hopfield's h-index is 95 overall and 33 since 2020, according to his Google Scholar profile.",
+        "Affiliation": "Princeton University",
+        "Research Interests": "Theoretical understanding of computation in brains, modeling artificial neural networks, physics of biomolecules and biomolecular processing",
+        "Top 3 Papers": "The top 3 most cited papers by John Joseph Hopfield are:\n\n1. Neural networks and physical systems with emergent collective computational abilities (1982) - 29038 citations\n2. Neurons with graded response have collective computational properties like those of two-state neurons (1984) - 9922 citations\n3. \"Neural\" computation of decisions in optimization problems (1985) - 9116 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=JohnJosephHopfield"
+    },
+    {
+        "name": "Takeo Kanade",
+        "Total Citations": 92075.0,
+        "h-index": "172",
+        "Affiliation": "Carnegie Mellon University",
+        "Research Interests": "computer vision, robotics, artificial intelligence, multimedia",
+        "Top 3 Papers": "The top 3 most cited papers by Takeo Kanade are:\n\n1. Neural network-based face detection (3244 citations)\n2. Recognizing action units for facial expression analysis (1478 citations)\n3. A stereo matching algorithm with an adaptive window: theory and experiment (976 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=TakeoKanade"
+    },
+    {
+        "name": "Chelsea Finn",
+        "Total Citations": 86666.0,
+        "h-index": "111",
+        "Affiliation": "Stanford University",
+        "Research Interests": "Robotics, Machine Learning, Reinforcement Learning, AI for Robotics",
+        "Top 3 Papers": "The top 3 most cited papers by Chelsea Finn are:\n\n1. Model-agnostic meta-learning for fast adaptation of deep networks (15845 citations)\n2. On the opportunities and risks of foundation models (5839 citations)\n3. End-to-end training of deep visuomotor policies (4459 citations)",
+        "Compensation": "I was unable to find the exact salary for Chelsea Finn at Stanford University. However, the average salary for an assistant professor at Stanford is $158,932 USD. The average salary for all faculty at Stanford University is $217,914 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=ChelseaFinn"
+    },
+    {
+        "name": "John Shawe-Taylor",
+        "Total Citations": 85846.0,
+        "h-index": "87",
+        "Affiliation": "University College London",
+        "Research Interests": "Statistical Learning Theory, Neural Networks, Machine Learning, Graph Theory",
+        "Top 3 Papers": "The top three most cited papers by John Shawe-Taylor are:\n\n1. Kernel methods for pattern analysis (9693 citations)\n2. Estimating the support of a high-dimensional distribution (6275 citations)\n3. Canonical correlation analysis: An overview with application to learning methods (4034 citations)",
+        "Compensation": "Publicly available compensation information for John Shawe-Taylor is not available. However, the total salary range for a Professor at University College London is $103K\u2013$167K per year according to Glassdoor. The average salary for a professor at UCL is \u00a376,644 per year according to Indeed. Professorial Banding Structure at UCL states that Band 1 is between \u00a382,157 and \u00a3102,719, Band 2 is between \u00a390,991 and \u00a3124,231, Band 3 is between \u00a3108,997 and \u00a3148,286, and Band 4 is a minimum of \u00a3139,882.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JohnShawe-Taylor"
+    },
+    {
+        "name": "Geoffrey Irving",
+        "Total Citations": 82968.0,
+        "h-index": "51",
+        "Affiliation": "UK AI Security Institute (AISI)",
+        "Research Interests": "AGI Safety, Artificial Intelligence, Theorem Proving, Computational Physics, Games",
+        "Top 3 Papers": "The top 3 most cited papers by Geoffrey Irving are:\n\n1. \"{TensorFlow}: a system for {Large-Scale} machine learning\" with 60414 citations\n2. \"Gemini: a family of highly capable multimodal models\" with 4524 citations\n3. \"Fine-tuning language models from human preferences\" with 1942 citations",
+        "Compensation": "While specific compensation for Geoffrey Irving is not available, a Research Manager position at the AI Security Institute, where he is a research director, has a salary range from \u00a365,000 to \u00a3145,000 inclusive of base salary and additional technical talent allowance, depending on the level.",
+        "headshot_url": "https://i.pravatar.cc/150?u=GeoffreyIrving"
+    },
+    {
+        "name": "Rajat Monga",
+        "Total Citations": 79043.0,
+        "h-index": "27",
+        "Affiliation": "Microsoft",
+        "Research Interests": "AI, Machine Learning, Distributed Systems, Parallel Computing, Machine Intelligence, Machine Perception, Speech Processing",
+        "Top 3 Papers": "The top 3 most cited papers by Rajat Monga are:\n\n1. TensorFlow: Large-scale machine learning on heterogeneous systems (2015) - 62164 citations\n2. Large scale distributed deep networks (2012) - 5271 citations\n3. Beyond short snippets: Deep networks for video classification (2015) - 3225 citations",
+        "Compensation": "In 2016, while CFO at YES Bank, Rajat Monga's compensation was approximately Rs 7.96 crore.",
+        "headshot_url": "https://i.pravatar.cc/150?u=RajatMonga"
+    },
+    {
+        "name": "Marvin Lee Minsky",
+        "Total Citations": 78307.0,
+        "h-index": "65",
+        "Affiliation": "Professor Emeritus at CSAIL and the MIT Media Lab",
+        "Research Interests": "Artificial intelligence, cognitive psychology, neural networks, knowledge representation, robotics",
+        "Top 3 Papers": "The top three most cited papers by Marvin L. Minsky are:\n\n1. A framework for representing knowledge - 16522 citations\n2. Perceptrons, reissue of the 1988 expanded edition with a new foreword by L\u00e9on Bottou: an introduction to computational geometry - 14028 citations\n3. Society of mind - 11283 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=MarvinLeeMinsky"
+    },
+    {
+        "name": "Andrej Karpathy",
+        "Total Citations": 74448.0,
+        "h-index": "11",
+        "Affiliation": "Eureka Labs",
+        "Research Interests": "deep learning, computer vision, natural language processing, machine learning",
+        "Top 3 Papers": "The top 3 most cited papers by Andrej Karpathy are:\n\n1. \"Imagenet large scale visual recognition challenge\" with 51557 citations.\n2. \"Large-scale video classification with convolutional neural networks\" with 9120 citations.\n3. \"Deep visual-semantic alignments for generating image descriptions\" with 7690 citations.",
+        "Compensation": "During his time as the director of artificial intelligence at Tesla, Andrej Karpathy reportedly earned a salary of $2 million per year. Some sources also mention a compensation package rumored to be worth as much as $100 million on a 4-year vest and $5 million salary with $50 million in stock options.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AndrejKarpathy"
+    },
+    {
+        "name": "Nando de Freitas",
+        "Total Citations": 74335.0,
+        "h-index": "88",
+        "Affiliation": "Microsoft AI",
+        "Research Interests": "deep learning, transfer learning, abstraction, reinforcement learning, multi-agents, Bayesian inference, and Bayesian optimization",
+        "Top 3 Papers": "The top 3 most cited papers by Nando de Freitas are:\n\n1. \"Sequential Monte Carlo methods in practice\" with 12,108 citations.\n2. \"Taking the human out of the loop: A review of Bayesian optimization\" with 6,721 citations.\n3. \"Dueling network architectures for deep reinforcement learning\" with 5,997 citations.",
+        "Compensation": "Information on Nando de Freitas's specific compensation is not publicly available. However, the estimated total pay range for a Professor at the University of Oxford is $104K\u2013$165K per year, which includes base salary and additional pay, according to Glassdoor.",
+        "headshot_url": "https://i.pravatar.cc/150?u=NandodeFreitas"
+    },
+    {
+        "name": "Olga Russakovsky",
+        "Total Citations": 60877.0,
+        "h-index": "40",
+        "Affiliation": "Princeton University",
+        "Research Interests": "computer vision, machine learning, human-computer interaction, fairness, accountability, and transparency",
+        "Top 3 Papers": "The top three most cited papers by Olga Russakovsky are:\n1. ImageNet Large Scale Visual Recognition Challenge with 51746 citations\n2. What's the point: Semantic segmentation with point supervision with 1301 citations\n3. End-to-end Learning of Action Detection from Frame Glimpses in Videos with 773 citations",
+        "Compensation": "I am unable to find information regarding Olga Russakovsky's specific public compensation. The estimated total pay range for a Professor at Princeton University is $129K\u2013$221K per year, which includes base salary and additional pay. The average Professor salary at Princeton University is approximately $144,390.",
+        "headshot_url": "https://i.pravatar.cc/150?u=OlgaRussakovsky"
+    },
+    {
+        "name": "Marc'Aurelio Ranzato",
+        "Total Citations": 59914.0,
+        "h-index": "70",
+        "Affiliation": "Google DeepMind",
+        "Research Interests": "Machine Learning, Computer Vision, Natural Language Processing, Speech Recognition",
+        "Top 3 Papers": "The top 3 most cited papers by Marc'Aurelio Ranzato are:\n1. Deepface: Closing the gap to human-level performance in face verification (8896 citations)\n2. Large scale distributed deep networks (5271 citations)\n3. Devise: A deep visual-semantic embedding model (3571 citations)",
+        "Compensation": "Compensation information specific to Marc'Aurelio Ranzato is not available. However, a Research Engineer position at DeepMind has a base salary range between $133,000 - $203,000 + bonus + equity + benefits. Top researchers at Google DeepMind may be offered compensation packages as high as $20 million per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=Marc'AurelioRanzato"
+    },
+    {
+        "name": "Peter Stone",
+        "Total Citations": 58099.0,
+        "h-index": "115",
+        "Affiliation": "Chief Scientist and Deputy President at Sony AI, and Professor at The University of Texas at Austin",
+        "Research Interests": "machine learning, multiagent systems, robotics",
+        "Top 3 Papers": "The top 3 most cited papers by Peter Stone are:\n\n1. \"Transfer learning for reinforcement learning domains: A survey\" by ME Taylor, P Stone (2009) with 2569 citations.\n2. \"Deep Recurrent Q-Learning for Partially Observable MDPs\" by MJ Hausknecht, P Stone (2015) with 2527 citations.\n3. \"Multiagent systems: A survey from a machine learning perspective\" by P Stone, M Veloso (2000) with 2127 citations.",
+        "Compensation": "In 2018, Peter Stone H's annual salary at the University of Texas at Austin was $309,340 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=PeterStone"
+    },
+    {
+        "name": "Stefan Schaal",
+        "Total Citations": 53690.0,
+        "h-index": "106",
+        "Affiliation": "Chief Science Officer at Intrinsic, an Alphabet company, and Professor at the University of Southern California",
+        "Research Interests": "statistical and machine learning, neural networks, computational neuroscience, nonlinear dynamics, and biomimetic robotics",
+        "Top 3 Papers": "The top three most cited papers by Stefan Schaal are:\n\n1. Locally Weighted Learning (2365 citations)\n2. Is imitation learning the route to humanoid robots (1714 citations)\n3. Dynamical movement primitives: Learning attractor models for motor behaviors (1232 citations)",
+        "Compensation": "In 2018, Stefan Schaal's dual-track career earned him up to $350,000 USD a year, including generous expense allowances.",
+        "headshot_url": "https://i.pravatar.cc/150?u=StefanSchaal"
+    },
+    {
+        "name": "Andreas Krause",
+        "Total Citations": 52122.0,
+        "h-index": "108",
+        "Affiliation": "ETH Zurich",
+        "Research Interests": "Machine Learning, Artificial Intelligence, Computational Sustainability, Mathematical Optimization, Adaptive Systems",
+        "Top 3 Papers": "The top 3 most cited papers by Andreas Krause are:\n\n1. \"Cost-effective outbreak detection in networks\" - 3325 citations\n2. \"Gaussian process optimization in the bandit setting: No regret and experimental design\" - 3097 citations\n3. \"Near-optimal sensor placements in Gaussian processes: Theory, efficient algorithms and empirical studies\" - 2140 citations",
+        "Compensation": "The estimated total pay range for a Professor at ETH Zurich is CHF 175K\u2013CHF 290K per year, including base salary and additional pay. The average Professor base salary at ETH Zurich is CHF 250K per year. The salary scales for ETH professors for 2025 indicate a minimum salary of CHF 161,297 for assistant professors and a maximum salary of CHF 298,733 for full professors.",
+        "headshot_url": "https://i.pravatar.cc/150?u=AndreasKrause"
+    },
+    {
+        "name": "Lawrence K. Saul",
+        "Total Citations": 51216.0,
+        "h-index": "57",
+        "Affiliation": "Flatiron Institute",
+        "Research Interests": "machine learning, high dimensional data analysis, latent variable modeling, variational inference, representation learning",
+        "Top 3 Papers": "Lawrence K. Saul's top three most cited papers are:\n\n1. Nonlinear dimensionality reduction by locally linear embedding (17361 citations)\n2. Distance Metric Learning for Large Margin Nearest Neighbor Classification (3898 citations)\n3. An introduction to variational methods for graphical models (3355 citations)",
+        "Compensation": "Compensation information for Lawrence K. Saul at the Flatiron Institute is not available.",
+        "headshot_url": "https://i.pravatar.cc/150?u=LawrenceK.Saul"
+    },
+    {
+        "name": "Leslie Pack Kaelbling",
+        "Total Citations": 48634.0,
+        "h-index": "79",
+        "Affiliation": "Massachusetts Institute of Technology (MIT)",
+        "Research Interests": "robotics, reinforcement learning, planning, computer vision, machine learning",
+        "Top 3 Papers": "The top three most cited papers by Leslie Pack Kaelbling are:\n\n1. Reinforcement learning: A survey, with 13032 citations\n2. Planning and acting in partially observable stochastic domains, with 6273 citations\n3. Learning policies for partially observable environments: Scaling up, with 1084 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=LesliePackKaelbling"
+    },
+    {
+        "name": "Jan Peters",
+        "Total Citations": 45466.0,
+        "h-index": "95",
+        "Affiliation": "Technische Universit\u00e4t Darmstadt and German Research Center for Artificial Intelligence (DFKI)",
+        "Research Interests": "Robot Learning, Robotics, Machine Learning, Cognitive Science, Biomimetic Systems",
+        "Top 3 Papers": "The top 3 most cited papers by Jan Peters are:\n\n1. Reinforcement learning in robotics: A survey (4918 citations)\n2. A survey on policy search for robotics (1341 citations)\n3. Reinforcement learning of motor skills with policy gradients (1323 citations)",
+        "Compensation": "The estimated total pay range for a Professor at TU Darmstadt is \u20ac80K\u2013\u20ac947K per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=JanPeters"
+    },
+    {
+        "name": "Cyrill Stachniss",
+        "Total Citations": 41023.0,
+        "h-index": "90",
+        "Affiliation": "University of Bonn and Lamarr Institute for Machine Learning and Artificial Intelligence",
+        "Research Interests": "Localization, Mapping, SLAM, Bundle Adjustment, Autonomous Navigation",
+        "Top 3 Papers": "The top 3 most cited papers by Cyrill Stachniss are:\n\n1. OctoMap: An efficient probabilistic 3D mapping framework based on octrees (3792 citations)\n2. Improved techniques for grid mapping with rao-blackwellized particle filters (3425 citations)\n3. Semantickitti: A dataset for semantic scene understanding of lidar sequences (2546 citations)",
+        "Compensation": "Based on available data, a professor at the University of Bonn can expect to make between \u20ac91,615 - \u20ac102,587 EUR per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=CyrillStachniss"
+    },
+    {
+        "name": "Sumit Chopra",
+        "Total Citations": 36533.0,
+        "h-index": "36",
+        "Affiliation": "Associate Professor at the Courant Institute of Mathematical Sciences, NYU, and the Department of Radiology at the NYU Grossman School of Medicine, where he is also the Director of Machine Learning Research.",
+        "Research Interests": "machine learning, representation learning in self-supervised settings, computer vision, natural language understanding, healthcare",
+        "Top 3 Papers": "The top 3 most cited papers by Sumit Chopra are:\n\n1. \"Dimensionality reduction by learning an invariant mapping\" with 7133 citations.\n2. \"Learning a similarity metric discriminatively, with application to face verification\" with 5932 citations.\n3. \"A neural attention model for abstractive sentence summarization\" with 3685 citations.",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=SumitChopra"
+    },
+    {
+        "name": "Tuomas W. Sandholm",
+        "Total Citations": 36177.0,
+        "h-index": "As of July 2025, Tuomas Sandholm's h-index, according to Google Scholar, is 98.",
+        "Affiliation": "Carnegie Mellon University",
+        "Research Interests": "Artificial intelligence, optimization, game theory, equilibrium finding, market design",
+        "Top 3 Papers": "The top 3 most cited papers by Tuomas W. Sandholm are:\n\n*   Algorithm for optimal winner determination in combinatorial auctions (1616 citations)\n*   Superhuman AI for multiplayer poker (1114 citations)\n*   Coalition structure generation with worst case guarantees (1075 citations)",
+        "Compensation": "I am unable to find the exact salary for Tuomas Sandholm. However, the average salary of 1387 faculty working for Carnegie Mellon University is $127,988 USD, and the median salary at Carnegie Mellon University is $84,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=TuomasW.Sandholm"
+    },
+    {
+        "name": "Bart Selman",
+        "Total Citations": 35501.0,
+        "h-index": "78",
+        "Affiliation": "Professor of Computer Science at Cornell University",
+        "Research Interests": "Artificial intelligence, computational sustainability, efficient reasoning procedures, planning, and knowledge representation",
+        "Top 3 Papers": "The top 3 most cited papers by Bart Selman are:\n1. Generating hard satisfiability problems (2537 citations)\n2. Planning as Satisfiability (1635 citations)\n3. Referral Web: combining social networks and collaborative filtering (1555 citations)",
+        "Compensation": "The estimated total pay range for a Professor at Cornell University is $139,000 - $236,000 USD per year.",
+        "headshot_url": "https://i.pravatar.cc/150?u=BartSelman"
+    },
+    {
+        "name": "Shane Legg",
+        "Total Citations": 35210.0,
+        "h-index": NaN,
+        "Affiliation": "Google DeepMind",
+        "Research Interests": "theory and practice in artificial intelligence, intelligence measures for machines, neural networks, artificial development, improved learning, and learning theory",
+        "Top 3 Papers": "The top 3 cited papers by Shane Legg are:\n1. Human-level control through deep reinforcement learning (31K citations)\n2. IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures (1.3K citations)\n3. Universal Intelligence: A Definition of Machine Intelligence (716 citations)",
+        "Compensation": "Compensation information for Shane Legg is not publicly available.",
+        "headshot_url": "https://i.pravatar.cc/150?u=ShaneLegg"
+    },
+    {
+        "name": "Lise Getoor",
+        "Total Citations": 33178.0,
+        "h-index": "Lise Getoor has an h-index of 77, according to her Google Scholar profile.",
+        "Affiliation": "Distinguished Professor in the Computer Science Department at UC Santa Cruz and the Center Director of the UC Santa Cruz D3 Data Science Research Center",
+        "Research Interests": "machine learning, reasoning under uncertainty, databases, data science, and artificial intelligence",
+        "Top 3 Papers": "The top 3 most cited papers by Lise Getoor are:\n\n1. Collective classification in network data (5208 citations)\n2. Introduction to statistical relational learning (2171 citations)\n3. Link mining: a survey (1705 citations)",
+        "Compensation": "In 2021, Lise Getoor's total compensation as Prof-Ay-B/E/E at the University of California was $393,312 USD, which included a salary of $248,667 USD, $48,728 USD in benefits, and $95,917 USD from other compensation.",
+        "headshot_url": "https://i.pravatar.cc/150?u=LiseGetoor"
+    },
+    {
+        "name": "Prof. Dr. h.c. Michael Beetz PhD",
+        "Total Citations": 27184.0,
+        "h-index": "70",
+        "Affiliation": "Professor for Computer Science at the Faculty for Mathematics & Informatics of the University Bremen and head of the Institute for Artificial Intelligence (IAI)",
+        "Research Interests": "plan-based control of robotic agents, knowledge processing and representation for robots, integrated robot learning, and cognitive perception",
+        "Top 3 Papers": "The top 3 cited papers of Michael Beetz are:\n1. Fast point feature histograms (FPFH) for 3D registration (4998 citations)\n2. Towards 3D point cloud based object maps for household environments (1397 citations)\n3. Aligning point cloud views using persistent feature histograms (1371 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=Prof.Dr.h.c.MichaelBeetzPhD"
+    },
+    {
+        "name": "R\u00fcdiger Dillmann",
+        "Total Citations": 25684.0,
+        "h-index": "73",
+        "Affiliation": "Karlsruhe Institute of Technology and FZI Forschungszentrum Informatik",
+        "Research Interests": "robot programming by demonstration, machine learning, humanoid robotics, robot vision, human-computer interaction",
+        "Top 3 Papers": "R\u00fcdiger Dillmann's top 3 cited papers are:\n1. Incremental Learning of Tasks From User Demonstrations, Past Experiences, and Vocal Comments (201 citations)\n2. Using gesture and speech control for commanding a robot assistant (163 citations)\n3. Programming by demonstration: dual-arm manipulation tasks for humanoid robots (159 citations)",
+        "Compensation": "Compensation information for R\u00fcdiger Dillmann is not explicitly available. However, the average professor university salary in Karlsruhe, Germany is approximately \u20ac81,764 EUR per year. Junior professors (W1) earn a gross salary of between \u20ac4,600 - \u20ac5,500 EUR per month. The salary of professors at KIT consists of the basic salary, the family allowance, and variable merit-based bonuses.",
+        "headshot_url": "https://i.pravatar.cc/150?u=R\u00fcdigerDillmann"
+    },
+    {
+        "name": "Tamim Asfour",
+        "Total Citations": 18700.0,
+        "h-index": "66",
+        "Affiliation": "Institute for Anthropomatics and Robotics at Karlsruhe Institute of Technology (KIT)",
+        "Research Interests": "high performance 24/7 humanoid robotics",
+        "Top 3 Papers": "The top 3 most cited papers by Tamim Asfour are:\n\n1. Data-driven grasp synthesis\u2014a survey with 1343 citations.\n2. Learning and generalization of motor skills by learning from demonstration with 983 citations.\n3. Parameter space noise for exploration with 821 citations.",
+        "Compensation": "There is no specific compensation information available for Tamim Asfour. However, salaries for professors in Germany are based on the W salary scale. A W1 junior professor in 2024 earns between \u20ac4,913-\u20ac5,521 per month, depending on the state. Full professors (W2 or W3) make between 5,900 euros and 8,000 euros per month.",
+        "headshot_url": "https://i.pravatar.cc/150?u=TamimAsfour"
+    },
+    {
+        "name": "Junhua Zhao",
+        "Total Citations": 18494.0,
+        "h-index": "67",
+        "Affiliation": "The Chinese University of Hong Kong, Shenzhen",
+        "Research Interests": "smart grid, electricity market, low-carbon transition, artificial intelligence",
+        "Top 3 Papers": "The top 3 most cited papers by Junhua Zhao are:\n1. \"The 2015 Ukraine blackout: Implications for false data injection attacks\" with 1372 citations\n2. \"A review of false data injection attacks against modern power systems\" with 1112 citations\n3. \"From smart grid to energy internet: basic concept and research framework\" with 665 citations",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=JunhuaZhao"
+    },
+    {
+        "name": "Stefan Wermter",
+        "Total Citations": 15690.0,
+        "h-index": "54",
+        "Affiliation": "Full Professor at the University of Hamburg and the Director of the Knowledge Technology Laboratory",
+        "Research Interests": "Neural Networks, Artificial Intelligence, Hybrid Knowledge Processing, Neurocognitive Robotics, Multimodal Integration, Machine Learning",
+        "Top 3 Papers": "The top three most cited papers by Stefan Wermter are:\n\n1. Continual lifelong learning with neural networks: A review (3960 citations)\n2. An analysis of convolutional long short-term memory recurrent neural networks for gesture recognition (285 citations)\n3. Hybrid neural systems (259 citations)",
+        "Compensation": "Information regarding Stefan Wermter's exact compensation is not available. However, several job postings within his department at the University of Hamburg list the salary level as 13 TV-L.",
+        "headshot_url": "https://i.pravatar.cc/150?u=StefanWermter"
+    },
+    {
+        "name": "Christos H. Papadimitriou",
+        "Total Citations": NaN,
+        "h-index": "138",
+        "Affiliation": "Donovan Family Professor of Computer Science at Columbia University and a Principal Investigator at the Archimedes Unit of the Athena Research Center",
+        "Research Interests": "theory of algorithms and complexity, computational biology, artificial intelligence, machine learning, computational neuroscience, economics, and game theory",
+        "Top 3 Papers": NaN,
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=ChristosH.Papadimitriou"
+    },
+    {
+        "name": "Bernt Schiele",
+        "Total Citations": NaN,
+        "h-index": NaN,
+        "Affiliation": NaN,
+        "Research Interests": NaN,
+        "Top 3 Papers": "The top three most cited papers by Bernt Schiele are:\n\n1. The Cityscapes Dataset for Semantic Urban Scene Understanding (15979 citations)\n2. Generative Adversarial Text to Image Synthesis (4497 citations)\n3. Pedestrian Detection: An Evaluation of the State of the Art (4261 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=BerntSchiele"
+    },
+    {
+        "name": "Trevor Jackson Darrell",
+        "Total Citations": NaN,
+        "h-index": "177",
+        "Affiliation": "University of California, Berkeley",
+        "Research Interests": "computer vision, machine learning, natural language processing, perception-based human computer interfaces, computer graphics",
+        "Top 3 Papers": "The top 3 most cited papers by Trevor Darrell are:\n\n*   Fully Convolutional Networks for Semantic Segmentation (29262 citations)\n*   Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation (23232 citations)\n*   Caffe: Convolutional Architecture for Fast Feature Embedding (15816 citations)",
+        "Compensation": "In 2022, Trevor Darrell's pay as Prof In Res-Ay-B/E/E at the University of California, Berkeley was $197,000 USD.",
+        "headshot_url": "https://i.pravatar.cc/150?u=TrevorJacksonDarrell"
+    },
+    {
+        "name": "Daniela Rus",
+        "Total Citations": NaN,
+        "h-index": "158",
+        "Affiliation": "MIT CSAIL",
+        "Research Interests": "robotics, mobile computing, data science",
+        "Top 3 Papers": "The three most cited papers by Daniela Rus are:\n\n1. Design, fabrication and control of soft robots (3590 citations)\n2. Robust distributed network localization with noisy range measurements (1312 citations)\n3. Global clock synchronization in sensor networks (1067 citations)",
+        "Compensation": "As an Independent Director of Symbotic Inc - Ordinary Shares - Class A, Daniela Rus received a gross remuneration of $226.2K in 2024.",
+        "headshot_url": "https://i.pravatar.cc/150?u=DanielaRus"
+    },
+    {
+        "name": "Quoc V. Le",
+        "Total Citations": NaN,
+        "h-index": "145",
+        "Affiliation": "Google",
+        "Research Interests": "Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Machine Translation",
+        "Top 3 Papers": NaN,
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=QuocV.Le"
+    },
+    {
+        "name": "Tomaso Armando Poggio",
+        "Total Citations": NaN,
+        "h-index": "149",
+        "Affiliation": "Massachusetts Institute of Technology (MIT)",
+        "Research Interests": "mathematics of deep learning, computational neuroscience of the visual cortex, learning theory, computer vision, artificial intelligence",
+        "Top 3 Papers": "The top 3 most cited papers by Tomaso Armando Poggio are:\n\n1. Networks for approximation and learning (4974 citations)\n2. Hierarchical models of object recognition in cortex (4522 citations)\n3. Face recognition: Features versus templates (4410 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=TomasoArmandoPoggio"
+    },
+    {
+        "name": "John McCarthy (computer scientist)",
+        "Total Citations": NaN,
+        "h-index": "30",
+        "Affiliation": NaN,
+        "Research Interests": NaN,
+        "Top 3 Papers": "The top three most cited papers by John McCarthy are:\n\n1. Review: Roger Penrose, The emperor's new mind (10012 citations)\n2. Some philosophical problems from the standpoint of artificial intelligence (6354 citations)\n3. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955 (6246 citations)",
+        "Compensation": NaN,
+        "headshot_url": "https://i.pravatar.cc/150?u=JohnMcCarthy(computerscientist)"
+    }
+]
